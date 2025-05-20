@@ -1,0 +1,1 @@
+A youtube video downloader. Run the code on your LOCAL IDE. A UI with a box where you can paste a youtube link pops up. Paste your youtube video link. Hit "Download", and there you go, a youtube video downloaded on your local disk.
